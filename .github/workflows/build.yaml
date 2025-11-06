@@ -26,3 +26,17 @@ jobs:
       - name: Build all projects
         run: |
           find . -name "*.csproj" -print0 | xargs -0 -n1 dotnet build --no-restore --configuration Release
+
+      # - name: Restore dependencies
+      #   run: |
+      #     dotnet restore src/API/API.csproj
+      #     dotnet restore src/Application/Application.csproj
+      #     dotnet restore src/Domain/Domain.csproj
+      #     dotnet restore src/Infrastructure/Infrastructure.csproj
+
+      # - name: Build projects
+      #   run: |
+      #     dotnet build src/API/API.csproj --no-restore --configuration Release
+      #     dotnet build src/Application/Application.csproj --no-restore --configuration Release
+      #     dotnet build src/Domain/Domain.csproj --no-restore --configuration Release
+      #     dotnet build src/Infrastructure/Infrastructure.csproj --no-restore --configuration Release

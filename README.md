@@ -1,7 +1,7 @@
 ## CleanArchTemplate (.NET 9 Clean Architecture)
 
 [![License](https://img.shields.io/github/license/selfmadecode/CleanArchTemplate.svg?style=flat)](LICENSE)
-[![Build](https://img.shields.io/github/actions/workflow/status/selfmadecode/CleanArchTemplate/build.yml?branch=master&style=flat&logo=github)](https://github.com/selfmadecode/CleanArchTemplate/actions)
+[![Build Status](https://github.com/selfmadecode/CleanArchTemplate/actions/workflows/build.yaml/badge.svg?branch=main)](https://github.com/selfmadecode/CleanArchTemplate/actions/workflows/build.yaml)
 [![.NET ≥ 8.0](https://img.shields.io/badge/.NET-%E2%89%A58.0-512BD4?logo=dotnet&style=flat)](https://dotnet.microsoft.com/)
 [![GitHub issues](https://img.shields.io/github/issues/selfmadecode/CleanArchTemplate.svg?style=flat)](https://github.com/selfmadecode/CleanArchTemplate/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/selfmadecode/CleanArchTemplate/pulls)

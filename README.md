@@ -11,7 +11,7 @@
 **CleanArchTemplate** is a fully featured **.NET 9 Clean Architecture** boilerplate project built for rapid enterprise application development.  
 It provides a ready-to-use foundation with modern best practices and modular layers, so you can quickly rename and launch new projects.
 
-### ✨ Key Features
+### Key Features
 
 - ✅ **.NET 9 Clean Architecture** pattern  
 - ✅ **Entity Framework Core** with `DbContext`  
@@ -81,7 +81,7 @@ Save and close.
 
 ---
 
-## ⚙️ Step 4 – Rename the Project Files (Optional)
+## Step 4 – Rename the Project Files (Optional)
 
 If you wish, rename your `.csproj` files to match:
 
@@ -98,7 +98,7 @@ This step is optional; the template will still run with the original file names.
 
 ---
 
-## 🧩 Step 5 – Update Namespaces and References
+## Step 5 – Update Namespaces and References
 
 Search the entire solution for **`CleanArchTemplate`** and replace it with your new project name, e.g.:
 

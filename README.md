@@ -32,7 +32,8 @@ You can use this template right out of the box. It’s built with C# and .NET 9,
   - `ApplicationUser`
   - DTOs
 
-Use this project as your starting point. Please create issues whenever you notice anything, and remember to star this repo or fork it so we can fix issues together. My goal is to create a template that .NET developers can use whenever they start a new project. That way, development becomes faster and more efficient.
+#### Use this project as your starting point. Please create issues whenever you notice anything, and remember to star this repo or fork it so we can fix issues together.
+#### My goal is to create a template that .NET developers can use whenever they start a new project. That way, development becomes faster and more efficient.
 ---
 
 # Rename Guide

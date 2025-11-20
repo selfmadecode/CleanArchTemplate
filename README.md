@@ -7,12 +7,10 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/selfmadecode/CleanArchTemplate/pulls)
 
 ## About the Project
+Hey, since you’re here, let me tell you what this project can help you achieve.
+You can use this template right out of the box. It’s built with C# and .NET 9, and it already includes several implementations for you. This means you can focus directly on your business logic.
 
-**CleanArchTemplate** is a fully featured **.NET 9 Clean Architecture** boilerplate project built for rapid enterprise application development.  
-It provides a ready-to-use foundation with modern best practices and modular layers, so you can quickly rename and launch new projects.
-
-### Key Features
-
+### Some of the features of the template are:
 - ✅ **.NET 9 Clean Architecture** pattern  
 - ✅ **Entity Framework Core** with `DbContext`  
 - ✅ **Authentication & Authorization** using **Roles** and **Policies**  
@@ -34,8 +32,7 @@ It provides a ready-to-use foundation with modern best practices and modular lay
   - `ApplicationUser`
   - DTOs
 
-Use this project as a starting point for scalable, secure, and maintainable .NET applications.
-
+Use this project as your starting point. Please create issues whenever you notice anything, and remember to star this repo or fork it so we can fix issues together. My goal is to create a template that .NET developers can use whenever they start a new project. That way, development becomes faster and more efficient.
 ---
 
 # Rename Guide
